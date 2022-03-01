@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    h1, h2, h3, h4 {
+      @apply font-bold;
+    }
+  }
+  
+
+  * {
+    @apply font-sans;
+    /* @apply font-bold; */
+  }
+
+  @layer utilities {
+    @variants responsive {
+      .min-w-prose {
+        min-width: 65ch;
+      }
+      
+    }
+  }
