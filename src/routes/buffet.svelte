@@ -11,10 +11,16 @@
 
 <div class="flex flex-col ">
 	<div class="m-auto max-w-prose flex flex-col items-center p-3">
-		<h1 class=" text-3xl uppercase text-center ">Etagère CLAPIER</h1>
+		<h1 class=" text-3xl uppercase text-center mb-3">CLAPIER</h1>
+		<h2 class=" text-lg uppercase text-center mb-3">Buffet</h2>
 		<div>Multiplex bouleau - Sapin</div>
 		<div>160 x 120 x 37,5</div>
-		<p class="text-gray-500">vendu</p>
+		<p class="mt-6 text-gray-600 text-justify">
+			Mettre en avant le tourillon. Ce morceau de bois, généralement caché dans le montage d’un
+			meuble, sert a assembler deux parties entre elles ( je m’en sert beaucoup). Ici il est coloré
+			et sert à faire les faces des portes coulissantes qui se croisent de manière graphique. Puis
+			il sert en traversant les montants à tenir les étagères qui peuvent ainsi être amovibles.
+		</p>
 		<img class="mb-40" src="buffet-cote.png" alt="buffet cote" />
 		<img class="mb-60" src="buffet-grille.png" alt="buffet grille" />
 		<img class="mb-20" src="buffet-detail.png" alt="buffet detail" />

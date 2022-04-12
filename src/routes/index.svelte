@@ -7,17 +7,17 @@
 	};
 </script>
 
-<div class="md:flex">
-	<a class="creationsk" href="/creations">
-		<div class="flex items-center justify-center">
+<div class="md:flex md:p-0 p-3 md:justify-center">
+	<a class="creationsk flex flex-col mb-3 sm:mb-0 " href="/creations">
+		<div class="flex items-center justify-center flex-grow">
 			<div class="creations-text absolute m-auto  text-white font-sans uppercase">CRÉATION</div>
-			<img style="" src="creations.webp" alt="creations" />
+			<img style="w-full h-full" src="creations.webp" alt="creations" />
 		</div>
 	</a>
-	<a class="collab" href="/collab">
-		<div class="flex items-center justify-center h-full">
-			<div class="collab-text absolute m-auto font-sans uppercase">Collab</div>
-			<img height="350" width="350" style="" src="slash.webp" alt="slash" />
+	<a class="collab md:p-3 " href="/mini_series">
+		<div class="flex items-center justify-center  ">
+			<div class="collab-text absolute m-auto font-sans uppercase text-white">Mini series</div>
+			<img src="mini_series.webp" alt="slash" />
 		</div>
 	</a>
 </div>

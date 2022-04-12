@@ -13,10 +13,15 @@
 
 <div class="flex flex-col ">
 	<div class="m-auto max-w-prose flex flex-col items-center p-3">
-		<h1 class="text-3xl uppercase text-center ">Table Bleu</h1>
+		<h1 class="text-3xl uppercase text-center mb-3">TaBleu</h1>
+		<h2 class="text-lg uppercase text-center mb-3">Table basse</h2>
 		<div>Hêtre - Multiplex - Alupanel - Verre armé</div>
 		<div>40 x 100 x 35,5</div>
-		<p class="text-gray-500">vendu</p>
+		<p class="mt-6 text-gray-600 text-justify">
+			Découverte de l’Alupanel, matériau fin et léger mais surtout coloré et résistant. L’esthétique
+			du verre armé apporte lumière et jeu de transparence-cachée avec le contenu rangé dans la
+			table basse.
+		</p>
 		<img class="mt-32 mb-28" style="" src="tableuface.png" alt="tableuface" />
 		<img class="mb-12" src="tableu.png" alt="tableu" />
 		<img class="" src="table-bleu-angle.png" alt="table-bleu-angle" />

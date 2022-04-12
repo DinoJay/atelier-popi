@@ -26,7 +26,7 @@
 	const routePaths = {
 		'/banc': 0,
 		'/buffet': 1,
-		'/collab': 2,
+		'/mini_series': 2,
 		'/commode': 3,
 		'/contact': 0,
 		'/creations': 1,
@@ -34,7 +34,8 @@
 		'/': 3,
 		'/table-1': 0,
 		'/table-2': 1,
-		'/table-bleu': 2
+		'/table-bleu': 2,
+		'/sunset': 3
 	};
 	$: cleanedPath = key.substring(0);
 	console.log('cleanedPath', key, cleanedPath);
@@ -96,10 +97,10 @@
 						</a>
 						<a
 							on:click={autoclose}
-							href="collab"
+							href="mini_series"
 							class="block mt-4  text-teal-lighter {key === '/collab' && 'underline'}"
 						>
-							Collab
+							Mini Series
 						</a>
 						<a
 							on:click={autoclose}

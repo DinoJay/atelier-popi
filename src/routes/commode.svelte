@@ -12,10 +12,17 @@
 
 <div class="flex flex-col ">
 	<div class="m-auto max-w-prose flex flex-col items-center p-3">
-		<h1 class=" text-3xl uppercase text-center mb-3">Commode EVEREST</h1>
+		<h1 class=" text-3xl uppercase text-center mb-3">EVEREST</h1>
+		<h2 class=" text-lg uppercase text-center mb-3">Commode</h2>
 		<div>Chêne - Multiplex bouleau - Laiton</div>
 		<div>91 x 100 x 33,5</div>
-		<p class="text-gray-500">vendu</p>
+		<p class="mt-6 text-gray-600 text-justify">
+			Moderniser la marqueterie par un dessin s’étalant sur les quatre portes en laiton incrusté.
+			Des faces de tiroirs qui ne sont plus pleines mais ajourées avec des tiges pour tourillons
+			teintées et qui sont rappelées au niveau des assemblages de la partie basse. Une partie haute
+			et une partie basse qui sont séparables. La composition du meuble peut être modifiée selon
+			l’espace, le gout ou l’envie d’un peu de changement.
+		</p>
 		<img class="mb-40 mt-20" style="" src="everest-face.png" alt="everest face" />
 		<img class="mb-40" src="everest-cote2.png" alt="everest cote 2" />
 		<img class="mb-40" src="everest-detail.png" alt="everest detail" />

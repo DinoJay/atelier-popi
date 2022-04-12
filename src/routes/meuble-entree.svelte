@@ -13,8 +13,9 @@
 <div class="flex flex-col ">
 	<div class="m-auto max-w-prose flex flex-col items-center p-3">
 		<h1 class=" text-3xl uppercase text-center mb-3">Console entrée</h1>
+		<h2 class=" text-lg uppercase text-center mb-3">Console</h2>
 		<div>Sapin - Peuplier 86 x 86 x 12</div>
-		<p class="text-gray-500">vendu</p>
+		<p class="text-gray-600 text-justify mt-6">Des proportions, des proportions autour du carré.</p>
 		<img class="" src="entree-face.webp" alt="entree-face" />
 		<img src="entree-haut.webp" alt="entree-haut" />
 		<img class=" mt-16" style="" src="entree-cote.webp" alt="entree-cote" />
