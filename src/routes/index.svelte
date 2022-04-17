@@ -10,14 +10,18 @@
 <div class="md:flex md:p-0 p-3 md:justify-center">
 	<a class="creationsk flex flex-col mb-3 sm:mb-0 " href="/creations">
 		<div class="flex items-center justify-center flex-grow">
-			<div class="creations-text absolute m-auto  text-white font-sans uppercase">CRÉATION</div>
-			<img style="w-full h-full" src="creations.webp" alt="creations" />
+			<div class="creations-text absolute m-auto  text-white font-sans uppercase">CRÉATIONS</div>
+			<img class="w-full h-full" src="creations.webp" alt="creations" />
 		</div>
 	</a>
-	<a class="collab md:p-3 " href="/mini_series">
-		<div class="flex items-center justify-center  ">
-			<div class="collab-text absolute m-auto font-sans uppercase text-white">Mini series</div>
-			<img src="mini_series.webp" alt="slash" />
+	<a class="sm:ml-3 collab flex flex-col  mb-3 sm:mb-0" href="/mini_series">
+		<div class="flex items-center justify-center  flex-grow relative">
+			<img class="h-full" src="mini_series.webp" alt="mini series" />
+			<div
+				class="collab-text absolute m-auto font-sans uppercase text-center text-white max-width-half sm:max-w-none"
+			>
+				Mini-Séries
+			</div>
 		</div>
 	</a>
 </div>

@@ -1,5 +1,4 @@
 <script>
-	import Insta from 'svelte-remixicon/lib/icons/instagramLine.svelte';
 	import { seo } from '$lib/store.js';
 
 	$seo = {
@@ -8,47 +7,52 @@
 	};
 </script>
 
-<div class="p-6">
-	<h1 class="mb-12">Création de meuble unique</h1>
-	<div class="flex flex-wrap">
-		<div class="text-justify max-w-prose ">
-			<p class="mb-3">
-				Après un master en Dessin (La Cambre) et une formation en Ébénisterie et Menuiserie (Efp) à
-				Bruxelles, je commence en novembre 2021 mes propres <span class="font-bold"
-					>créations de meubles graphiques</span
-				>. Ils sont chacun uniques et fait à la main.
-			</p>
-			<p class="mb-3">
-				L’hêtre et le multiplex bouleau sont mes matériaux de base auxquels j’aime y associé
-				d’autres matières telles que le plexi, le laiton, la peinture,… Je suis toujours à la
-				recherche de nouveaux matériaux, éléments, contraintes ou couleurs qui m’inspirent l’idée de
-				la conception du nouveau meuble.
-			</p>
-			<p class="mb-3">
-				En février 2022 je me forme à la CNC et commence une nouvelle catégorie de meubles et objets
-				en bois. Ils utilisent cette technique et sont produits en mini série. Des formes plus
-				sobres mais une reconnexion avec l’univers du dessin.
-			</p>
-			<p class="">
-				<span>
-					Les nouveautés sont publiées au fur et à mesure avec leur prix TVA incluse (mais ne
-					comprend pas les frais de transport). Je suis sur Bruxelles si vous êtes intéressé et que
-					vous voulez venir voir le meuble en question. Pour suivre l’arrivée des nouveautés et
-					l’avancement du projet vous pouvez me suivre sur Instagram
-				</span>
-				<span class="inline-block ">
+<div class="p-6 flex">
+	<div>
+		<h1 class="mb-6">Création de meuble unique</h1>
+		<div class="flex-col sm:flex-row flex flex-wrap">
+			<div class="text-justify max-w-prose ">
+				<p class="mb-3">
+					Après un master en Dessin (La Cambre) et une formation en Ébénisterie et Menuiserie (Efp)
+					à Bruxelles, je commence en novembre 2021 mes propres <span class="font-bold"
+						>créations de meubles graphiques</span
+					>. Ils sont chacun uniques et fait à la main.
+				</p>
+				<p class="mb-3">
+					L’hêtre et le multiplex bouleau sont mes matériaux de base auxquels j’aime y associé
+					d’autres matières telles que le plexi, le laiton, la peinture,… Je suis toujours à la
+					recherche de nouveaux matériaux, éléments, contraintes ou couleurs qui m’inspirent l’idée
+					de la conception du nouveau meuble.
+				</p>
+				<p class="mb-3">
+					En février 2022 je me forme à la CNC et commence une nouvelle catégorie de meubles et
+					objets en bois. Ils utilisent cette technique et sont produits en mini série. Des formes
+					plus sobres mais une reconnexion avec l’univers du dessin.
+				</p>
+				<p class="">
 					<span>
-						<a class=" flex items-end font-bold" href="https://www.instagram.com/__popi__/">
-							__popi__
-						</a>
+						Les nouveautés sont publiées au fur et à mesure avec leur prix TVA incluse (mais ne
+						comprend pas les frais de transport). Je suis sur Bruxelles si vous êtes intéressé et
+						que vous voulez venir voir le meuble en question. Pour suivre l’arrivée des nouveautés
+						et l’avancement du projet vous pouvez me suivre sur Instagram
 					</span>
-				</span>.
-			</p>
+					<span class="inline-block ">
+						<span>
+							<a class=" flex items-end font-bold" href="https://www.instagram.com/__popi__/">
+								__popi__
+							</a>
+						</span>
+					</span>.
+				</p>
+			</div>
 		</div>
-		<!-- <img class="mx-auto" src="letter.webp" width="250" height="150" /> -->
+		<div class="mt-12">
+			<a class="" href="mailto: alix.nicolas1@gmail.com">alix.nicolas1@gmail.com</a>
+		</div>
 	</div>
-	<div class="mt-12">
-		<a class="" href="mailto: alix.nicolas1@gmail.com">alix.nicolas1@gmail.com</a>
+	<div class="flex flex-col  mt-12 mx-auto  xl:mt-0 sm:ml-32">
+		<img src="alix.webp" class="" width="300" />
+		<div class="text-sm">©XavierWillot</div>
 	</div>
 </div>
 

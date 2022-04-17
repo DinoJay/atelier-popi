@@ -53,6 +53,6 @@
 	}
 
 	.situation {
-		@apply px-12;
+		/* @apply px-12; */
 	}
 </style>

@@ -19,6 +19,13 @@
       .min-w-prose {
         min-width: 65ch;
       }
-      
+      .max-width-half {
+        max-width: 50%;
+      }
+
+      .alix-width {
+        width:300px
+
+      }
     }
   }

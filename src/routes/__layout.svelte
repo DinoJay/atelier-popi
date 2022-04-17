@@ -93,14 +93,14 @@
 							href="creations"
 							class="block mt-4  text-teal-lighter {key === '/creations' && 'underline'}"
 						>
-							Creations
+							Créations
 						</a>
 						<a
 							on:click={autoclose}
 							href="mini_series"
 							class="block mt-4  text-teal-lighter {key === '/collab' && 'underline'}"
 						>
-							Mini Series
+							Mini-séries
 						</a>
 						<a
 							on:click={autoclose}

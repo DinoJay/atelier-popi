@@ -6,7 +6,7 @@
 	$seo = {
 		title: 'Collaboration',
 		description:
-			'Artiste Popi Creations Meuble unique Design Furniture Collaborations multidisciplinaire'
+			'Artiste Popi Creations Meuble unique Design Furniture mini-series multidisciplinaire'
 	};
 </script>
 
