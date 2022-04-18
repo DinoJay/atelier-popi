@@ -1,6 +1,7 @@
 <!-- 1. Assign current route's path to `key` prop -->
 <script context="module">
 	export const load = async ({ url }) => {
+		console.log('url', url);
 		return {
 			props: {
 				key: url.pathname
@@ -35,10 +36,12 @@
 		'/table-1': 0,
 		'/table-2': 1,
 		'/table-bleu': 2,
-		'/sunset': 3
+		'/sunset': 3,
+		'/mini_series/plateau': 2,
+		'/mini_series/table': 3
 	};
-	$: cleanedPath = key.substring(0);
-	console.log('cleanedPath', key, cleanedPath);
+
+	console.log('cleanedPath', key);
 
 	const imgPaths = ['popibleu.webp', 'popijaune.webp', 'popivert.webp', 'popirouge.webp'];
 
@@ -75,7 +78,7 @@
 			</button>
 			<div class="flex items-center  mr-6 ">
 				<a href="/">
-					<img style="height: 50px" src={imgPaths[i]} height="20" alt="logo" />
+					<img style="height: 50px" src={`/${imgPaths[i]}`} height="20" alt="logo" />
 				</a>
 			</div>
 			{#if open}
