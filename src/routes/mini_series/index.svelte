@@ -8,7 +8,7 @@
 	};
 </script>
 
-<div class="p-6 max-w-xl ">
+<div class="p-3 md:p-12 max-w-xl ">
 	<h1 class="text-3xl mb-3">Mini-séries...</h1>
 
 	<p class="text-justify">

@@ -8,8 +8,8 @@
 	};
 </script>
 
-<div class="md:flex">
-	<div class="md:max-width-half">
+<!-- <div class="p-3 md:p-12 items-center md:items-start">
+	<div class="md:max-width-half mr-0 md:mr-12">
 		<h1 class="text-3xl mb-1">Marée basse</h1>
 		<h2 class="mb-2">Table basse</h2>
 		<div class="text-justify text-sm text-gray-600 ">
@@ -18,12 +18,45 @@
 			<p>200€</p>
 			<p>(en vente à partir du 30/04/2022 Chaussee de Wavre 331 Bruxelles)</p>
 		</div>
-		<div class="flex flex-wrap mt-24">
-			<img class="h-40 mr-3" src="/tableahut.png" alt="tableahaut" />
-			<img class="h-40" src="/detail1.png" alt="table detail 1" />
-			<img class="h-40 mt-3" src="/detail2.png" alt="table detail 2" />
-			<img class="h-40 mt-3 mx-auto" src="/tablecentre.png" alt="table detail 2" />
+	</div>
+
+	<div class="flex flex-col md:flex-row mt-12">
+		<div class="order-1 grid grid-cols-2 grid-rows-2 gap-4 md:mr-12">
+			<img class="h-full   object-cover " src="/tableahut.png" alt="tableahaut" />
+			<img class="h-full  object-cover " src="/detail1.png" alt="table detail 1" />
+			<img class="h-full    object-cover " src="/detail2.png" alt="table detail 2" />
+			<img class="h-full    object-cover " src="/tablecentre.png" alt="table detail 2" />
+		</div>
+		<img class="order-last md:max-w-series" src="/table_plan.png" style="height:400px" />
+	</div>
+</div> -->
+
+<div class=" p-3  md:p-12 items-center md:items-start">
+	<div class="">
+		<h1 class="text-3xl mb-1">Marée basse</h1>
+		<h2 class="mb-2">Table basse</h2>
+		<div class="text-justify text-sm text-gray-600 ">
+			<p class="mb-3">Gravure des formes à la CNC, marqueterie de laiton</p>
+			<p class="">Multiplex bouleau - hêtre - epoxy - laiton</p>
+			<p>200€</p>
+			<p>(en vente à partir du 30/04/2022 Chaussee de Wavre 331 Bruxelles)</p>
 		</div>
 	</div>
-	<img src="/table_plan.png" class="md:max-width-half" />
+	<div class="flex flex-col md:flex-row md:mt-12">
+		<div class="order-1 grid md:mr-12 gap-4 grid-cols-2 grid-rows-3 ">
+			<!-- <img class="h-40 " src="/plateauface.png" alt="tableahaut" />
+			<img class="h-40" src="/plateaufacejaune.png" alt="table detail 1" />
+			<img class="h-40 " src="/plateaucote.png" alt="table detail 2" />
+			<img class="h-40  " src="/plateau2.png" alt="table detail 2" />
+			<img class="h-40  " src="/plateaudouble.png" alt="table detail 2" /> -->
+			<img class="h-40   object-cover " src="/tableahut.png" alt="tableahaut" />
+			<img class="h-40  object-cover " src="/detail1.png" alt="table detail 1" />
+			<img class="h-40    object-cover " src="/detail2.png" alt="table detail 2" />
+			<img class="h-40    object-cover " src="/tablecentre.png" alt="table detail 2" />
+		</div>
+		<img class="order-0 md:order-last max-w-series " src="/table_plan.png" style="height:400px" />
+	</div>
 </div>
+
+<style>
+</style>

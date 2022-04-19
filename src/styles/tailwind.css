@@ -22,10 +22,14 @@
       .max-width-half {
         max-width: 50%;
       }
+      .max-w-series {
+        max-width:500px;
+      }
 
       .alix-width {
         width:300px
       }
+
 
       /* .mini-series-half-w {
         width:50%
