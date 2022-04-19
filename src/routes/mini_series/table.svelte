@@ -49,14 +49,14 @@
 			<img class="h-40 " src="/plateaucote.png" alt="table detail 2" />
 			<img class="h-40  " src="/plateau2.png" alt="table detail 2" />
 			<img class="h-40  " src="/plateaudouble.png" alt="table detail 2" /> -->
-			<img class="h-40   object-cover " src="/tableahut.png" alt="tableahaut" />
-			<img class="h-40  object-cover " src="/detail1.png" alt="table detail 1" />
-			<img class="h-40    object-cover " src="/detail2.png" alt="table detail 2" />
-			<img class="h-40    object-cover " src="/tablecentre.png" alt="table detail 2" />
+			<img class="h-40   object-contain " src="/tableahut.webp" alt="tableahaut" />
+			<img class="h-40  object-contain " src="/detail1.webp" alt="table detail 1" />
+			<img class="h-40    object-contain " src="/detail2.webp" alt="table detail 2" />
+			<img class="h-40    object-contain " src="/tablecentre.webp" alt="table detail 2" />
 		</div>
 		<img
 			class="mini-series-table-mobile md:mini-series-table-desktop order-0 md:order-last mb-3 md:mb-0 max-w-series "
-			src="/table_plan.png"
+			src="/table_plan.webp"
 		/>
 	</div>
 </div>

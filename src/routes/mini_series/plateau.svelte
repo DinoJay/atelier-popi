@@ -23,15 +23,15 @@
 	</div>
 	<div class="flex flex-col md:flex-row md:mt-12">
 		<div class="order-1 grid md:mr-12 gap-4 grid-cols-2 grid-rows-3 ">
-			<img class="h-40 " src="/plateauface.png" alt="tableahaut" />
-			<img class="h-40" src="/plateaufacejaune.png" alt="table detail 1" />
-			<img class="h-40 " src="/plateaucote.png" alt="table detail 2" />
-			<img class="h-40  " src="/plateau2.png" alt="table detail 2" />
-			<img class="h-40  " src="/plateaudouble.png" alt="table detail 2" />
+			<img class="h-40 object-contain" src="/plateauface.webp" alt="tableahaut" />
+			<img class="h-40 object-contain " src="/plateaufacejaune.webp" alt="table detail 1" />
+			<img class="h-40 object-contain" src="/plateaucote.webp" alt="table detail 2" />
+			<img class="h-40  object-contain" src="/plateau2.webp" alt="table detail 2" />
+			<img class="h-40  object-contain" src="/plateaudouble.webp" alt="table detail 2" />
 		</div>
 		<img
 			class="order-0 mb-3 md:mb-0 md:order-last max-w-series mini-series-tableau-mobile md:mini-series-tableau-desktop"
-			src="/plateau_plan.png"
+			src="/plateau_plan.webp"
 		/>
 	</div>
 </div>
