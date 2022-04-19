@@ -26,6 +26,26 @@
         max-width:500px;
       }
 
+      .mini-series-table-desktop {
+        height:280px
+      }
+
+      .mini-series-table-mobile {
+        height:240px
+      }
+
+
+      .mini-series-tableau-desktop {
+        height:300px
+      }
+
+      .mini-series-tableau-mobile {
+        height:230px
+      }
+
+      .mini-series-table-desktop {
+        height:280px
+      }
       .alix-width {
         width:300px
       }

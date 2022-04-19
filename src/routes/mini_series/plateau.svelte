@@ -14,9 +14,9 @@
 		<h2 class="mb-2">Plateau</h2>
 		<div class="order-1 md:order-0 ">
 			<div class="text-justify text-sm text-gray-600 ">
-				<p class="mb-3">Gravure des formes à la CNC, marqueterie de laiton.</p>
+				<p class="">Gravure des formes à la CNC, marqueterie de laiton.</p>
 				<p class="">Multiplex bouleau - hêtre - epoxy - laiton</p>
-				<p>50€</p>
+				<p>50€/plateau - dispo: 3 bleu, 3 jaune</p>
 				<p>(en vente à partir du 30/04/2022 Chaussee de Wavre 331 Bruxelles)</p>
 			</div>
 		</div>
@@ -29,6 +29,9 @@
 			<img class="h-40  " src="/plateau2.png" alt="table detail 2" />
 			<img class="h-40  " src="/plateaudouble.png" alt="table detail 2" />
 		</div>
-		<img class="order-0 md:order-last max-w-series " src="/plateau_plan.png" style="height:400px" />
+		<img
+			class="order-0 mb-3 md:mb-0 md:order-last max-w-series mini-series-tableau-mobile md:mini-series-tableau-desktop"
+			src="/plateau_plan.png"
+		/>
 	</div>
 </div>
