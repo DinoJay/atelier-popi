@@ -64,7 +64,7 @@
 <SEO />
 <div class="max-w-screen-xl m-auto relative">
 	<div class="flex  fixed w">
-		<nav class="w bg-white  p-6 relative">
+		<nav class="w bg-white  p-6 relative w-full">
 			<button
 				aria-label="nav"
 				on:click={() => (open = !open)}
@@ -93,21 +93,21 @@
 						</a>
 						<a
 							on:click={autoclose}
-							href="creations"
+							href="/creations"
 							class="block mt-4  text-teal-lighter {key === '/creations' && 'underline'}"
 						>
 							Créations
 						</a>
 						<a
 							on:click={autoclose}
-							href="mini_series"
+							href="/mini_series"
 							class="block mt-4  text-teal-lighter {key === '/collab' && 'underline'}"
 						>
 							Mini-séries
 						</a>
 						<a
 							on:click={autoclose}
-							href="contact"
+							href="/contact"
 							class="block mt-4  text-teal-lighter {key === '/contact' && 'underline'} "
 						>
 							Contact
@@ -123,6 +123,8 @@
 		</PageTransition>
 	</main>
 </div>
+
+<div id="modals" />
 
 <style>
 	.w {

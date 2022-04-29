@@ -7,7 +7,7 @@
 	};
 </script>
 
-<div class="p-6 flex">
+<div class="p-6 md:flex ">
 	<div>
 		<h1 class="mb-6">Création de meuble unique</h1>
 		<div class="flex-col sm:flex-row flex flex-wrap">
@@ -46,12 +46,12 @@
 				</p>
 			</div>
 		</div>
-		<div class="mt-12">
+		<div class="md:mt-12">
 			<a class="" href="mailto: alix.nicolas1@gmail.com">alix.nicolas1@gmail.com</a>
 		</div>
 	</div>
-	<div class="flex flex-col  mt-12 mx-auto  xl:mt-0 sm:ml-32">
-		<img src="alix.webp" class="" width="300" />
+	<div style="width:300px" class="flex flex-col  mt-12 mx-auto  xl:mt-0 ">
+		<img src="alix.webp" class="" />
 		<div class="text-sm">©XavierWillot</div>
 	</div>
 </div>
