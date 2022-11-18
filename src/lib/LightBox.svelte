@@ -44,7 +44,13 @@
 	>
 		<div class="m-auto">
 			{#key srcs[counter][0]}
-				<img src={srcs[counter][0]} width={600} height={600} alt={srcs[counter][1]} />
+				<img
+					src={srcs[counter][0]}
+					width={600}
+					height={600}
+					alt={srcs[counter][1]}
+					style="max-height:700px"
+				/>
 			{/key}
 			<div class="flex items-center justify-center mt-3">
 				<button class="mr-1 z-10" on:click={goLeft}>

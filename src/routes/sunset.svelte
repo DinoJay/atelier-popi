@@ -18,12 +18,12 @@
 			<p>Hêtre - Plexi fluo - Multiplex bouleau - Verre armé</p>
 			<p>40,2 x 89 x 44,7</p>
 			<p class="mt-6 text-justify text-gray-600">
-				Le plexiglass fluorescent réfléchie de manière tellement intense la lumière sur son chant ou
-				dans les parties creuséeks que ça en est presque surnaturel. Chaque rectangle est gravé
-				d’une vue panoramique du Mont Blanc différente. La réflexion de la lumière, particulièrement
-				en fin de journée dans ces plexi orange et rouge-rose, retranscrit parfaitement ces couleurs
+				Le plexiglass fluorescent réfléchit de manière tellement intense la lumière sur son chant ou
+				dans les parties creusées que ça en est presque surnaturel. Chaque rectangle est gravé d’une
+				vue panoramique du Mont Blanc différente. La réflexion de la lumière, particulièrement en
+				fin de journée dans ces plexi orange et rouge-rose, retranscrit parfaitement ces couleurs
 				qui colorent les sommets des montagnes au coucher du soleil. Le choix d’un verre armé permet
-				de « caché » un peu l’intèrieur mais de laisser quand même passer de la lumière.
+				de « cacher » un peu l’intèrieur mais de laisse quand même passer de la lumière.
 			</p>
 		</div>
 		<img class="mt-20" src="sunset.webp" alt="sunset" />
@@ -33,8 +33,8 @@
 		<img class="mt-40 mb-12 situation" src="sunsetdetail.webp" alt="sunset-detail" />
 		<img class="mt-40 mb-12 situation" src="sunset_situation.webp" alt="sunset-situation" />
 		<div class="flex w-full justify-center items-center mb-3">
-			<a class="/creations" href="/creations">
-				<img height="40" width="40" src="home.webp" alt="home" />
+			<a class="" href="/tic">
+				<img height="40" width="40" src="arrow-left.webp" alt="arrow left" />
 			</a>
 			<a class="ml-auto" href="/table-2">
 				<img height="40" width="40" src="arrow-right.webp" alt="arrow right" />

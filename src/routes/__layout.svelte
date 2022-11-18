@@ -37,8 +37,11 @@
 		'/table-2': 1,
 		'/table-bleu': 2,
 		'/sunset': 3,
+		'/tic': 1,
 		'/mini_series/plateau': 2,
-		'/mini_series/table': 3
+		'/mini_series/table': 3,
+		'/mini_series/sardine': 1,
+		'/mini_series/rouget': 2
 	};
 
 	console.log('cleanedPath', key);
@@ -63,8 +66,8 @@
 
 <SEO />
 <div class="max-w-screen-xl m-auto relative">
-	<div class="flex  fixed w">
-		<nav class="w bg-white  p-6 relative w-full">
+	<div class="flex  fixed w z-50">
+		<nav class="w bg-white  p-6 relative">
 			<button
 				aria-label="nav"
 				on:click={() => (open = !open)}

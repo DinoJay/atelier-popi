@@ -19,8 +19,8 @@
 			<p>40 x 46,5 x 36,5</p>
 			<p class="text-gray-500">260€</p>
 			<p class="mt-6 text-gray-600">
-				Avec pour point départ trois morceaux de verres identiques, j’ai créé une petite table et
-				son double qui vont ensemble ou séparément. Rehausser par des touches de couleurs avec
+				Avec pour point de départ trois morceaux de verres identiques, j’ai créé une petite table et
+				son double qui vont ensemble ou séparément. Rehausseé par des touches de couleurs avec
 				l’Alupanel jaune et le plexiglass rouge (qui est rappelé dans la rainure peinte pour la
 				vitre), la forme est dans l’ouverture et la circulation de l’espace.
 			</p>

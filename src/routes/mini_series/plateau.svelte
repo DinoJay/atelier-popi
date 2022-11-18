@@ -24,8 +24,7 @@
 		<div class="text-justify text-sm text-gray-600 ">
 			<p class="">Gravure des formes à la CNC, marqueterie de laiton.</p>
 			<p class="">Multiplex bouleau - epoxy - laiton</p>
-			<p>50€/plateau - dispo: 3 bleu, 3 jaune</p>
-			<p>(en vente à partir du 30/04/2022 Chaussee de Wavre 331 Bruxelles)</p>
+			<p>50€/plateau - SOLD OUT</p>
 		</div>
 	</div>
 	<div class="flex flex-col md:flex-row md:mt-12 ">

@@ -9,25 +9,25 @@
 
 <div class="p-6 md:flex ">
 	<div>
-		<h1 class="mb-6">Création de meuble unique</h1>
+		<h1 class="mb-6">Création de meubles uniques</h1>
 		<div class="flex-col sm:flex-row flex flex-wrap">
 			<div class="text-justify max-w-prose ">
 				<p class="mb-3">
 					Après un master en Dessin (La Cambre) et une formation en Ébénisterie et Menuiserie (Efp)
-					à Bruxelles, je commence en novembre 2021 mes propres <span class="font-bold"
+					à Bruxelles, j'ai commencé en novembre 2021 mes propres <span class="font-bold"
 						>créations de meubles graphiques</span
-					>. Ils sont chacun uniques et fait à la main.
+					>. Ils sont, chacun, uniques et faits à la main.
 				</p>
 				<p class="mb-3">
-					L’hêtre et le multiplex bouleau sont mes matériaux de base auxquels j’aime y associé
+					L’hêtre et le multiplex bouleau sont mes matériaux de base auxquels j’aime y associer
 					d’autres matières telles que le plexi, le laiton, la peinture,… Je suis toujours à la
 					recherche de nouveaux matériaux, éléments, contraintes ou couleurs qui m’inspirent l’idée
 					de la conception du nouveau meuble.
 				</p>
 				<p class="mb-3">
-					En février 2022 je me forme à la CNC et commence une nouvelle catégorie de meubles et
-					objets en bois. Ils utilisent cette technique et sont produits en mini série. Des formes
-					plus sobres mais une reconnexion avec l’univers du dessin.
+					En février 2022 je me suis formée à la CNC et ai commencé une nouvelle catégorie de
+					meubles et objets en bois. Ils utilisent cette technique et sont produits en mini série.
+					Des formes plus sobres mais une reconnexion avec l’univers du dessin.
 				</p>
 				<p class="">
 					<span>
